@@ -1,3 +1,5 @@
 $(function() {
-	//some code
+	$('div').on('click', function() {
+		console.log("Neato?!");
+	});
 });
